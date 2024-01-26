@@ -11,15 +11,11 @@ body {
 }
 #yed{
     background-color: whitesmoke;
-    width: 60%;
-    height: 160%;
+    width: 100%;
+    height: 100%;
     border-radius: 15%;
 }
-#play{
-    height: 50%;
-    width: 75%;
-    border-radius: 10%;
-}
+
 #theheadhead{
     background-color: pink;
     width: 60%;

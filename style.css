@@ -1,5 +1,6 @@
 body {
     background-color: palevioletred;
+    flex-align: center;
 }
 #thehead{
     background-color: whitesmoke;
